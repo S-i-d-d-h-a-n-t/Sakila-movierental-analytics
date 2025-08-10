@@ -50,5 +50,4 @@ This document serves as a starting point for strategic planning. The insights an
 
 - Support operational decisions by identifying areas for improvement in customer satisfaction and staff management.
 
-## Project Video Link-
-https://www.youtube.com/watch?v=kcZUIHUHhTA
+
