@@ -2,6 +2,9 @@
 ## Project Overview
 This document provides a comprehensive analysis of the Sakila Movie Rental dataset, a simulated database for a DVD rental business. The goal of this project is to extract key business insights from the data and provide strategic recommendations to improve company growth, profitability, and operational efficiency.
 
+## Video
+https://gofile.io/d/MqAgYY
+
 ## 1. Introduction
 The Sakila dataset serves as a rich source of information for understanding the dynamics of a movie rental business. This analysis synthesizes data from multiple tables to build a clear picture of customer behavior, product performance, and operational health. The findings are intended to be a foundational resource for business managers, marketing teams, and store operators to make informed decisions.
 
